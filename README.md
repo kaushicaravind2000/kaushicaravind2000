@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kaushicaravind2000, web developer designer, aspiring BockChain Developer.
-- 👀 I’m interested in Web Design and Development, and currently improving my skills in BlockChain and data science.
+- 👀 I’m interested in Development, security and AI.
 - 🌱 I’m currently learning Ethereum Blockchain developement, react native , react JS and other server based technologies.
 - 💞️ I’m looking to collaborate on WebDesigns and Development  projects.
 - 📫 How to reach me : Email: kaushicbaravind@gmail.com 
