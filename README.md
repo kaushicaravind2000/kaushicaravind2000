@@ -1,4 +1,4 @@
-Experienced ML engineer specializing in AI and ML solutions, adept at leading cross-functional teams to deliver impactful projects. Developed NLP-driven automation systems and also enhanced sales analytics using speech recognition and attributes extraction. Skilled in Python, SQL, TensorFlow, and cloud platforms like GCP, AWS, and Azure. Proven track record in mentoring teams, optimizing processes, and achieving significant business improvements.
+Experienced ML engineer specializing in AI and ML solutions, adept at leading cross-functional teams to deliver impactful projects. Developed NLP-driven automation systems and also enhanced sales analytics using speech recognition and attributes extraction. Skilled in Python, SQL, pytorch, TensorFlow, and cloud platforms like GCP, AWS, and Azure. Proven track record in mentoring teams, optimizing processes, and achieving significant business improvements.
 - 📫 How to reach me : Email: kaushicbaravind@gmail.com 
 
 <!---
